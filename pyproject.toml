@@ -1,0 +1,9 @@
+[project]
+name = "pokemon-inventory"
+version = "0.1.0"
+description = "Pokemon card inventory management application"
+requires-python = ">=3.12"
+dependencies = []
+
+[project.scripts]
+pokemon = "pokemon_inventory.main:main"
