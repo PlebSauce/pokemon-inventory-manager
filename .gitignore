@@ -1,4 +1,20 @@
-.venv/
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.egg-info/
+.venv/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment secrets
 .env
+.env.*
+
+# Editor
+.vscode/
+
+# Keep the example configuration
+!.env.example

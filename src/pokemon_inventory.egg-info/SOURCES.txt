@@ -1,8 +1,0 @@
-pyproject.toml
-src/pokemon_inventory/__init__.py
-src/pokemon_inventory/main.py
-src/pokemon_inventory.egg-info/PKG-INFO
-src/pokemon_inventory.egg-info/SOURCES.txt
-src/pokemon_inventory.egg-info/dependency_links.txt
-src/pokemon_inventory.egg-info/entry_points.txt
-src/pokemon_inventory.egg-info/top_level.txt
